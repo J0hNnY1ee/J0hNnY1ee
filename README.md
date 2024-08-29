@@ -1,5 +1,12 @@
 ## Hi there 👋
-### 🤓
+### 📛💴💗📝💏💦📜💛💑📝💎💗📟👸💁📝💀💄📛💳💑📜💅💲📟💞💚📜💦👽📟💶💐📝💔💘📜💦👽📝💍👾📦💳💖
+- 🤓👆
+
+
+
+
+
+
 <!--
 **J0hNnY1ee/J0hNnY1ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
