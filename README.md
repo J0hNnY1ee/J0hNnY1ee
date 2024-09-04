@@ -6,10 +6,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hNnY1ee&layout=compact&theme=tokyonight)
 
 📈 **my github stats:**
-![](https://github-readme-activity-graph.cyclic.app/graph?username=J0hNnY1ee&theme=dracula)
 
-
-![](https://github-readme-stats.vercel.app/api?username=J0hNnY1ee&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=J0hNnY1ee&show_icons=true&theme=nightowl&count_private=true)
 
 
 💗 You are my  ![Visitor Count](https://profile-counter.glitch.me/J0hNnY1ee/count.svg) vistor,Thank You!
