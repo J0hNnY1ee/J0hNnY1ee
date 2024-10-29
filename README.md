@@ -3,7 +3,7 @@
 
 📊 **my most user languages:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hNnY1ee&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0hNnY1ee)
 
 📈 **my github stats:**
 
