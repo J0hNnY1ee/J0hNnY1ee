@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm J0hNnY1ee
-💩 I'm a student at Harbin Institute of Technology, Shenzhen.
+💩 我是傻逼
 
 📊 **Top Langs:**
 
