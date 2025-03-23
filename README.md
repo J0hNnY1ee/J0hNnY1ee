@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm J0hNnY1ee
-💩 我是傻逼
+💩 HITsz 在读
 
 📊 **Top Langs:**
 
